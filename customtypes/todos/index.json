@@ -1,0 +1,35 @@
+{
+  "id": "todos",
+  "label": "Todos",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "title": {
+        "type": "Text",
+        "config": {
+          "label": "title",
+          "placeholder": ""
+        }
+      },
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "uid",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "todo_category": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

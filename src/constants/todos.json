@@ -1,0 +1,22 @@
+[{
+        "title": "Dummy todo 1",
+        "description": "Here is what your first dummy to-do looks like",
+        "done": false,
+        "id": "1",
+        "tags": ["work"]
+    },
+    {
+        "title": "Dummy todo 2",
+        "description": "There you have it, your second to-do..You can add more if you feel like it",
+        "done": false,
+        "id": "2",
+        "tags": ["family", "work"]
+    },
+    {
+        "title": "Dummy todo 3",
+        "description": "Yipeee!!!. You added new to-do..Great job man",
+        "done": false,
+        "id": "3",
+        "tags": ["entertainment", "wrong"]
+    }
+]

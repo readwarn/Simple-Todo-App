@@ -1,0 +1,48 @@
+{
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "act",
+    "type": "Text"
+  },
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "cat"
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "todo_category$edb8dbf5-0278-46a8-96cc-d2be8d8f1207",
+        "name": "todo_category",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Muscle"
+                  }
+                }
+              ]
+            },
+            "legend": {
+              "__TYPE__": "FieldContent",
+              "value": "#fddda1",
+              "type": "Color"
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

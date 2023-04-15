@@ -1,0 +1,6 @@
+{
+    "apiEndpoint": "https://rilwan-todo-app.cdn.prismic.io/api/v2",
+    "localSliceSimulatorURL": "http://127.0.0.1:5173/simulator",
+    "libraries": ["@/slices"],
+    "_latest": "0.6.0"
+}

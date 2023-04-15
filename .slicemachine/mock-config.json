@@ -1,0 +1,22 @@
+{
+  "_cts": {
+    "homepage": {},
+    "tododetails": {},
+    "otherpages": {},
+    "todos": {},
+    "labels": {},
+    "home": {
+      "cta_actions": {}
+    },
+    "categories": {}
+  },
+  "slices": {
+    "HeroSection": {},
+    "AboutBlock": {},
+    "TodoCategory": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}
