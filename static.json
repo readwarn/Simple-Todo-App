@@ -4,6 +4,10 @@
     {
       "src": "/.*",
       "dest": "./index.html"
+    },
+    {
+      "src": "/todos/add-todo",
+      "dest": "./index.html"
     }
   ]
 }
