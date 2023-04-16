@@ -2,8 +2,8 @@
   "clean_urls": false,
   "routes": [
     {
-      "src": "/.*",
-      "dest": "/index.html"
+      "src": "./.*",
+      "dest": "./index.html"
     }
   ]
 }
