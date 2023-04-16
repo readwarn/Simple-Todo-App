@@ -24,7 +24,7 @@ const ActionOption = ({ todo, deleteTodo }) => {
     <Form method="POST" action={`delete-todo/${id}`}>
       <button
         type="submit"
-        className="py-2 px-4 text-sm font-normal text-left rounded-b-lg w-full h-full text-brand-black transition-colors hover:text-black hover:bg-slate-100"
+        className="py-2 px-4  text-sm font-normal text-left rounded-b-lg w-full h-full text-brand-black transition-colors hover:text-black hover:bg-slate-100"
       >
         Delete
       </button>
